@@ -4,11 +4,17 @@ Joshua Yap
 odd
 
 Controls
+
 W - Up
+
 A - Left
+
 S - Down
+
 D - Right
+
 Space Bar - Jump
+
 Left Mouse Button - Shoot (10 Ammo)
 
 I consulted the lab materials for this assignment
