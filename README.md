@@ -22,7 +22,8 @@ I consulted the lab materials for this assignment
 I watched gameplay of Wrecking Crew Video Game for inspiration
 
 Wrecking Crew has Mario and Luigi break blocks at construction site while avoiding various enemies. 
-The scene depicts Mario represented by a bunny model destroying blocks. 
+The scene I created depicts Mario represented by a bunny model destroying blocks with a gun. 
+While he uses a hammer in the original game, I took creative liberties on how to destroy the blocks. 
 
 Singleton
 In Wrecking Crew some blocks have more health than others so the singleton is used to determine how much more hits the player dealt to the blocks. 
