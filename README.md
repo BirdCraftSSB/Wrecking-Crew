@@ -28,3 +28,6 @@ The observer is implemented into the blocks.
 When called it will look for the block prefabs the player selects, if the pattern cannot find the block it will end the action. 
 When it finds the associated block object, it then looks if there is already a block in the scene
 It will then allow the player to freely place more blocks until they decide to go back to the game.
+
+Command
+The Command pattern is allows the other patterns to function. It counts the amount of items (blocks) currently in the scene, as well as their positions. The command also allows the player to remove blocks from the scene using the undo function. It first looks at the block list, where it then calculates the amount of blocks in the scene. When the player presses right click it will redo the object removed before hand.
